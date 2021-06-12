@@ -122,3 +122,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+creditcard.csv
+
+netflix_titles.csv

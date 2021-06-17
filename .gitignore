@@ -122,3 +122,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+creditcard.csv
+
+netflix_titles.csv
+
+Обучение_с_учителем_в_Scikit_learn.ipynb
+
+train.csv
